@@ -1,0 +1,4 @@
+# ninja log v5
+0	6521	1668611672751462987	/home/youngt/collection/Deformable-DETR-main/models/ops/build/temp.linux-x86_64-cpython-37/home/youngt/collection/Deformable-DETR-main/models/ops/src/cpu/ms_deform_attn_cpu.o	4f660610959c00
+0	17745	1668611683971509149	/home/youngt/collection/Deformable-DETR-main/models/ops/build/temp.linux-x86_64-cpython-37/home/youngt/collection/Deformable-DETR-main/models/ops/src/cuda/ms_deform_attn_cuda.o	4a84a1aab74a0b98
+0	21884	1668611688111526065	/home/youngt/collection/Deformable-DETR-main/models/ops/build/temp.linux-x86_64-cpython-37/home/youngt/collection/Deformable-DETR-main/models/ops/src/vision.o	27ab558cc267fcee
